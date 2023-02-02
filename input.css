@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+li a{
+    color:#EFEFEF;
+    font-weight: 600;
+}
+
+.text-color{
+    color: #100937;
+}
+
+
+h2{
+    font-size: 20px;
+    font-weight: 600;
+}
+.login{
+    position: absolute;
+    width: 400px;
+    height: 600px;
+    left: 834px;
+    top: 220px;
+}
